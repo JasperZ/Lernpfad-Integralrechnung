@@ -1,5 +1,0 @@
-Compile:
-	javac *.java
-
-Execute:
-	java Application.Aplication
